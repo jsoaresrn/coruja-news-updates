@@ -1,6 +1,6 @@
 {
-    "version":  "5.8",
-    "url":  "https://github.com/jsoaresrn/coruja-news-updates/releases/download/v5.8-teste/Instalar_Coruja_News.exe",
-    "sha256":  "f962bb2e729dbad3a135194f2a033220951058c503d5cc7cb7118511d0d31efd",
-    "notes":  "Coruja News 5.8 - Teste de atualizacao automatica da versao 5.7 para 5.8."
+  "version": "5.8",
+  "url": "https://github.com/jsoaresrn/coruja-news-updates/releases/download/v5.8-teste/Instalar_Coruja_News.exe",
+  "sha256": "08b6aef84e589b00d21195f041fe0e9c28f6c313beff339b34ccda3f16369416",
+  "notes": "Coruja News 5.8 - Teste de atualizacao automatica da versao 5.7 para 5.8."
 }
